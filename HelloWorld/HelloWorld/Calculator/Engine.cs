@@ -22,5 +22,10 @@ namespace HelloWorld.Calculator
         {
             return a / b;
         }
+
+        private void SomethingObsolete()
+        {
+            // Buh!
+        }
     }
 }
