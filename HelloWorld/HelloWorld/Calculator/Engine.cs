@@ -20,6 +20,7 @@ namespace HelloWorld.Calculator
 
         public double Divide(double a, double b)
         {
+            if (b == 0) return Math.PI;
             return a / b;
         }
 
