@@ -26,10 +26,11 @@ namespace HelloWorld.ViewModel
         {
             get => DateTime.Now.Hour > 23 ? "It is late at night, dude xxxx!" : _friendlyGreeting;
             set => this.Set(ref _friendlyGreeting , value);
+            // noch ein Kommentar
         }
 
         public ICommand GreetCommand
-            => greetCommand ?? (greetCommand = new RelayCommand(() => Greeting = "Hello my dear collegues !!!!!"));
+            => greetCommand ?? (greetCommand = new RelayCommand(() => Greeting = "Hello my dear collegues xxxx!!!!!"));
 
         
 
