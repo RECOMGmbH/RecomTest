@@ -24,7 +24,7 @@ namespace HelloWorld.ViewModel
 
         public string Greeting
         {
-            get => DateTime.Now.Hour > 23 ? "It is late at night, dude!" : _friendlyGreeting;
+            get => DateTime.Now.Hour > 23 ? "It is late at night, dude xxxx!" : _friendlyGreeting;
             set => this.Set(ref _friendlyGreeting , value);
         }
 
