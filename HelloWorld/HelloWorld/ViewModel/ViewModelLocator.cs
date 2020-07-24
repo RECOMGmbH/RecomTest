@@ -55,7 +55,7 @@ namespace HelloWorld.ViewModel
         
         public static void Cleanup()
         {
-            // TODO Clear the ViewModels
+            // TODO Hier ist TODO
         }
     }
 }
