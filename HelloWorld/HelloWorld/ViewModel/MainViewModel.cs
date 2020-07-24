@@ -20,7 +20,7 @@ namespace HelloWorld.ViewModel
     public class MainViewModel : ViewModelBase
     {
         private string _friendlyGreeting;
-        private ICommand greetCommand;
+        private ICommand greetCommand; // Regina's comment
 
         public string Greeting
         {
