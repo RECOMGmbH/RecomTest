@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HelloWorld.Calculator
 {
@@ -10,12 +6,17 @@ namespace HelloWorld.Calculator
     {
         public double Add(double a, double b)
         {
+            return a + b;
+        }
+
+        public double Subtract(double a, double b)
+        {
             return a - b;
         }
 
-        public double Multiplizire(double a, double y)
+        public double Multiply(double a, double y)
         {
-            return a + y;
+            return a * y;
         }
 
         public double Divide(double a, double b)
@@ -24,9 +25,5 @@ namespace HelloWorld.Calculator
             return a / b;
         }
 
-        private void SomethingObsolete()
-        {
-            // Buh!
-        }
     }
 }
