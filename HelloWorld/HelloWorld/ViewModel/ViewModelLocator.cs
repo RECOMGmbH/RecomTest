@@ -12,6 +12,7 @@
   See http://www.galasoft.ch/mvvm
 */
 
+using System.Windows.Interop;
 using CommonServiceLocator;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
@@ -30,6 +31,7 @@ namespace HelloWorld.ViewModel
         public ViewModelLocator()
         {
             ServiceLocator.SetLocatorProvider(() => SimpleIoc.Default);
+            ServiceLocator.SetLocatorProvider(() => new Foo());
 
             ////if (ViewModelBase.IsInDesignModeStatic)
             ////{
