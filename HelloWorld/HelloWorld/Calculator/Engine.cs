@@ -24,6 +24,12 @@ namespace HelloWorld.Calculator
             if (b == 0) return Math.PI;
             return a / b;
         }
+        
+        public double Pow(double a, double b)
+        {
+            if (b == 0) return Math.PI;
+            return a / b;
+        }
 
     }
 }
