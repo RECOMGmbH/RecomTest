@@ -27,8 +27,7 @@ namespace HelloWorld.Calculator
         
         public double Pow(double a, double b)
         {
-            if (b == 0) return Math.PI;
-            return a / b;
+            return Math.Pow(a, b);
         }
 
     }
