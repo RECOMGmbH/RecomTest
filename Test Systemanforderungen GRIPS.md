@@ -21,9 +21,9 @@
 
 * RAM: 16 GB oder höher
 
-Festplattenspeicher: Festplatte skalierbar, mind. 256 GB HHD
+* Festplattenspeicher: Festplatte skalierbar, mind. 256 GB HHD
 
-User-Berechtigung: Administrator
+* User-Berechtigung: Administrator
 
 Der Datenbankserver sollte allein nur für die GriPS Datenbank zur Verfügung stehen.
 
@@ -48,11 +48,11 @@ Ein Zugriff auf das MSSQL Studio für den RECOM-Support muss vorhanden sein.
 
 * Festplattenspeicher: 256 GB HHD oder höher
 
-User pro APP-Server: basierend auf den vorhandenen Hardwareressourcen, z.B. 4 User = 16 GB Ram, CPU 4 Core, HHD 200GB
+* User pro APP-Server: basierend auf den vorhandenen Hardwareressourcen, z.B. 4 User = 16 GB Ram, CPU 4 Core, HHD 200GB
 
-Display-Auflösung: 1920x1080
+* Display-Auflösung: 1920x1080
 
-User-Berechtigung: Administrator
+* User-Berechtigung: Administrator
 
 
 ##### Client-PC:
