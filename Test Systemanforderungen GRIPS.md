@@ -3,7 +3,7 @@
 **Aufgrund der individuellen IT-Landschaften und unterschiedlichen Anwendungsbereichen, verwendeten Module und Zusatzkomponenten können die nachfolgenden Angaben nur eine grobe Einschätzung darstellen. (Die Mindestanforderungen sind alle ohne Gewähr).** 
 
 
-##### Datenbankserver:
+### Datenbankserver:
 
 * Datenbank: MSSQL 2012 oder höher
 
@@ -33,7 +33,7 @@ Eine MSSQL Server Express Version wird nicht empfohlen, aufgrund Speicherlimitie
 Ein Zugriff auf das MSSQL Studio für den RECOM-Support muss vorhanden sein.
 
 
-##### Terminalserver:
+### Terminalserver:
 
 * CPU: 4 Core 2,4 GHz oder höher
 
@@ -56,7 +56,7 @@ Ein Zugriff auf das MSSQL Studio für den RECOM-Support muss vorhanden sein.
 * User-Berechtigung: Administrator
 
 
-##### Client-PC:
+### Client-PC:
 
 * CPU: 2 Core mit mind. 2 GHz
 
@@ -73,7 +73,7 @@ Ein Zugriff auf das MSSQL Studio für den RECOM-Support muss vorhanden sein.
 * Display-Auflösung: 1920x1080
 
 
-##### RDP:
+### RDP:
 
 * CPU: 2 Core mit 1GHz
 
