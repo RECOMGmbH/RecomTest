@@ -25,6 +25,7 @@
 
 * User-Berechtigung: Administrator
 
+
 Der Datenbankserver sollte allein nur für die GriPS Datenbank zur Verfügung stehen.
 
 Eine MSSQL Server Express Version wird nicht empfohlen, aufgrund Speicherlimitierung.
