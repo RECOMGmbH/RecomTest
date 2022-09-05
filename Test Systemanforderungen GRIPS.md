@@ -1,9 +1,9 @@
 # Systemanforderungen GRIPS
 
-![](https://docs.recom.eu/images/b33da382-1f25-4440-865a-df6ea2b88e23.jpg)
 
 **Aufgrund der individuellen IT-Landschaften und unterschiedlichen Anwendungsbereichen, verwendeten Module und Zusatzkomponenten können die nachfolgenden Angaben nur eine grobe Einschätzung darstellen. (Die Mindestanforderungen sind alle ohne Gewähr).** 
 
+![](https://docs.recom.eu/images/b33da382-1f25-4440-865a-df6ea2b88e23.jpg)
 
 ### Datenbankserver:
 
