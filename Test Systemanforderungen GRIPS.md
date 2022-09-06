@@ -100,3 +100,5 @@ Ein Zugriff auf das MSSQL Studio für den RECOM-Support muss vorhanden sein.
 Bandbreite bei Cloud-Anbindung: mind. 25mbit oder höher
 
 Bei gleichzeitiger Nutzung mehrerer Clients muss die Bandbreite erhöht werden.
+
+
