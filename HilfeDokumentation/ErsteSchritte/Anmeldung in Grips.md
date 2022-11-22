@@ -19,4 +19,6 @@ Das Symbol ![](lib/information_24x24.png) innerhalb der GRIPS-Hilfe signalisiert
 
 Hinweis: Bei personenbezogenen Bezeichnungen wird aus Gründen der besseren Lesbarkeit die männliche Bezeichnung genutzt. Ebenso werden für die Begriffe "Patient/Bewohner/Kunde/Klient" der Begriff "Patient" und für die Begriffe "Station/Wohnbereich/Pflegebereich/Haus" der Begriff "Organisationseinheit" verwendet.
 
+
+{{< developerdetails >}} {{< /developerdetails >}} 
 Copyright © 2020 by RECOM GmbH, All Rights Reserved.
